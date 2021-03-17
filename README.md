@@ -1,5 +1,5 @@
 ## 👋 Hello there
-**My name is Gunwoo Ha, I am student who is love to coding and other stuff :)**
+**My name is Gunwoo Ha, I am student who is love to coding and other stuff :)** <br>
 starting with **C** since 2019, currently I am learning Web programming for now!
 
 especially Vue / React, Hoping for improving my skills everyday that I could.

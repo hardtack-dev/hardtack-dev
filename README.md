@@ -12,6 +12,7 @@ especially Vue / React, Hoping for improving my skills every day that I could.
 
 - C
 - Python
+- Java
 
 ### 🌐 **Web**
 

@@ -3,7 +3,7 @@
 starting with C in 2019, currently, I am learning Web programming for now!
 
 especially Vue / React, Hoping for improving my skills every day that I could. <br>
-and I love gaming things either :)
+and I love gaming things too :)
 
 [![Hardtack's github stats](https://github-readme-stats.vercel.app/api?username=HARDTACK-Dev)](https://github.com/anuraghazra/github-readme-stats)
 ## 🎆 Skills:

@@ -3,7 +3,17 @@
 starting with C in 2019, currently, I am learning Web programming for now!
 
 especially Vue / React, Hoping for improving my skills every day that I could. <br>
-Feel free to contact me with programming stuff!
+Feel free to contact me with programming stuff
+
+---
+
+안녕하세요!
+저는 프로그래밍을 즐기는 학생입니다 :)
+
+
+
+늘 부족하여 실수하고 좌절하지만 꾸준하게 도전하여, <br>
+다양한 경험을 통해 제 실력을 키워나가고 싶습니다!
 
 [![Hardtack's github stats](https://github-readme-stats.vercel.app/api?username=HARDTACK-Dev)](https://github.com/anuraghazra/github-readme-stats)
 ## 🎆 Skills:

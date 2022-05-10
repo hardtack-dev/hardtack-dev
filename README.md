@@ -1,6 +1,4 @@
-## 👋 Trying best to learn the essence of programming
-
----
+### :gem: Trying best to learn the essence of programming
 
 안녕하세요!
 저는 프로그래밍을 즐기는 학생입니다 :)

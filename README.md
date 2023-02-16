@@ -21,7 +21,7 @@
 
 <h2 align="left"></h2>
 
-<b><p align="left">Barely speaks Languages</p><b>
+<b><p align="left">Languages & Tools</p><b>
 <div align="left" top=-30px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" width="25" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="25" width="25" alt="typescript logo"  />
